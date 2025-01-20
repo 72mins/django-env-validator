@@ -26,3 +26,4 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://www.github.com/72mins/django-env-validator"
+GitHub = "https://www.github.com/72mins/django-env-validator"
