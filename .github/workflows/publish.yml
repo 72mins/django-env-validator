@@ -3,6 +3,7 @@ name: Upload to PyPI when a release is created
 on:
   release:
     types: [published]
+    branches: [main]
 
 jobs:
   pypi-publish:
