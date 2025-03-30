@@ -1,7 +1,14 @@
-## Project Description
+<div align="center">
+
+## Django Env Validator
+
+![License](https://img.shields.io/github/license/72mins/django-env-validator)
+
+</div>
+
+<br />
 
 Django env validator is a package used to validate the .env file in a Django project using a set schema of rules.
-
 
 ## Installation
 
